@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home-section {
+  background-image: url("./images/world.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.horizontal-center {
+  margin: 0 auto
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-link {
+  text-decoration: none;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
