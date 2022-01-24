@@ -36,3 +36,12 @@ code {
   background-color: black;
   color: white;
 }
+
+.red {
+  color:red
+}
+
+.grey-box {
+  background-color: lightgray;
+  height: 100%
+}
